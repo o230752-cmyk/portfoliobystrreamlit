@@ -36,7 +36,7 @@ with col1:
       st.link_button("linkdin","https://www.linkedin.com/in/akhil-kurapati-0b8b3b3b3/")
     st.markdown("---")
 with col2:
-    st.image("/home/akhil/portfolio/WhatsApp Image 2026-06-16 at 1.25.23 PM.jpeg",width=300)
+    st.image("/portfolio/WhatsApp Image 2026-06-16 at 1.25.23 PM.jpeg",width=300)
 
 
 st.markdown(
@@ -54,8 +54,8 @@ with tab2:
 with tab3:
     st.markdown("# Skills")
     st.write("python programming")
-    st.image("/home/akhil/portfolio/python.jpeg",width=500)
+    st.image("/portfolio/python.jpeg",width=500)
     st.write("Introduction to ai")
-    st.image("/home/akhil/portfolio/simp.jpeg",width=500)
+    st.image("/portfolio/simp.jpeg",width=500)
     st.write("prompt engneering")
-    st.image("/home/akhil/portfolio/prompt.jpeg",width=500)
+    st.image("/portfolio/prompt.jpeg",width=500)
